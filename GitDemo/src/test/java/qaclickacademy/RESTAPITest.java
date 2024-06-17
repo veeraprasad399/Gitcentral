@@ -19,6 +19,7 @@ public class RESTAPITest {
 		System.out.println("postJira7");
 		
 		System.out.println("new change");
+		System.out.println("second change");
 		
 		
 		
