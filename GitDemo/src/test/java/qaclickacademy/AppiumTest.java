@@ -28,4 +28,14 @@ public class AppiumTest {
 		
 		
 	}
+	public void IOSApps_test_branch_develop1()
+	{
+		System.out.println("IOSApps");
+
+		System.out.println("IOSApps");
+		System.out.println("IOSApps");
+
+
+	}
+
 }
