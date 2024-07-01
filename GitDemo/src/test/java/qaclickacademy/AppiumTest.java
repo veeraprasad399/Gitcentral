@@ -1,4 +1,4 @@
-package qaclickacademy;
+pwdpackage qaclickacademy;
 
 import org.testng.annotations.Test;
 
